@@ -1,4 +1,5 @@
-### hello, friend 👋
+### hello, welcome!👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocruz1996)
-![david's github stats](https://github-readme-stats.vercel.app/api?username=claudiocruz1996&show_icons=true&count_private=true&line_height=40)
+<img height="160em"  src="https://github-readme-stats.vercel.app/api?username=claudiocruz1996&show_icons=true" align = "left"/>
+<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiocruz1996&show_icons=true&hide=html&exclude_repo=freecodecamp" align = "left"/>
+
